@@ -1,0 +1,75 @@
+2024-08-09T00:19:28.956+05:30  INFO 6900 --- [online-banking] [main] c.v.o.service.ClientServiceTests         : Starting ClientServiceTests using Java 22.0.2 with PID 6900 (started by vanshita mallick in C:\Users\vanshita mallick\Downloads\online-banking\online-banking)
+2024-08-09T00:19:28.958+05:30  INFO 6900 --- [online-banking] [main] c.v.o.service.ClientServiceTests         : No active profile set, falling back to 1 default profile: "default"
+2024-08-09T00:19:29.870+05:30  INFO 6900 --- [online-banking] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-09T00:19:29.958+05:30  INFO 6900 --- [online-banking] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 68 ms. Found 2 JPA repository interfaces.
+2024-08-09T00:19:30.471+05:30  INFO 6900 --- [online-banking] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-08-09T00:19:30.996+05:30  INFO 6900 --- [online-banking] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a0ea492
+2024-08-09T00:19:30.998+05:30  INFO 6900 --- [online-banking] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-08-09T00:19:31.111+05:30  INFO 6900 --- [online-banking] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-09T00:19:31.240+05:30  INFO 6900 --- [online-banking] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-09T00:19:31.306+05:30  INFO 6900 --- [online-banking] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-08-09T00:19:31.766+05:30  INFO 6900 --- [online-banking] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-09T00:19:32.810+05:30  INFO 6900 --- [online-banking] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-09T00:19:32.887+05:30  INFO 6900 --- [online-banking] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-09T00:19:33.383+05:30  WARN 6900 --- [online-banking] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-08-09T00:19:34.166+05:30  INFO 6900 --- [online-banking] [main] c.v.o.service.ClientServiceTests         : Started ClientServiceTests in 5.794 seconds (process running for 7.153)
+2024-08-09T00:19:35.023+05:30  INFO 6900 --- [online-banking] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-09T00:19:35.025+05:30  INFO 6900 --- [online-banking] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-08-09T00:19:35.037+05:30  INFO 6900 --- [online-banking] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-08-09T00:45:52.774+05:30  INFO 12476 --- [online-banking] [main] c.v.o.service.ClientServiceTests         : Starting ClientServiceTests using Java 22.0.2 with PID 12476 (started by vanshita mallick in C:\Users\vanshita mallick\Downloads\online-banking\online-banking)
+2024-08-09T00:45:52.776+05:30  INFO 12476 --- [online-banking] [main] c.v.o.service.ClientServiceTests         : No active profile set, falling back to 1 default profile: "default"
+2024-08-09T00:45:53.683+05:30  INFO 12476 --- [online-banking] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-09T00:45:53.767+05:30  INFO 12476 --- [online-banking] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 70 ms. Found 2 JPA repository interfaces.
+2024-08-09T00:45:54.246+05:30  INFO 12476 --- [online-banking] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-08-09T00:45:54.790+05:30  INFO 12476 --- [online-banking] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4001d8c1
+2024-08-09T00:45:54.792+05:30  INFO 12476 --- [online-banking] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-08-09T00:45:54.924+05:30  INFO 12476 --- [online-banking] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-09T00:45:55.064+05:30  INFO 12476 --- [online-banking] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-09T00:45:55.142+05:30  INFO 12476 --- [online-banking] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-08-09T00:45:55.699+05:30  INFO 12476 --- [online-banking] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-09T00:45:56.833+05:30  INFO 12476 --- [online-banking] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-09T00:45:56.913+05:30  INFO 12476 --- [online-banking] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-09T00:45:58.335+05:30  INFO 12476 --- [online-banking] [main] c.v.o.service.ClientServiceTests         : Started ClientServiceTests in 6.057 seconds (process running for 10.802)
+2024-08-09T00:45:59.045+05:30  WARN 12476 --- [online-banking] [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Error: 1062, SQLState: 23000
+2024-08-09T00:45:59.045+05:30 ERROR 12476 --- [online-banking] [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : Duplicate entry 'testuser' for key 'clients.UKsrdlopksdpbh4qo20au1v8w7r'
+2024-08-09T00:45:59.108+05:30  INFO 12476 --- [online-banking] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-09T00:45:59.125+05:30  INFO 12476 --- [online-banking] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-08-09T00:45:59.132+05:30  INFO 12476 --- [online-banking] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-08-09T00:47:11.281+05:30  INFO 8196 --- [online-banking] [main] c.v.o.service.ClientServiceTests         : Starting ClientServiceTests using Java 22.0.2 with PID 8196 (started by vanshita mallick in C:\Users\vanshita mallick\Downloads\online-banking\online-banking)
+2024-08-09T00:47:11.284+05:30  INFO 8196 --- [online-banking] [main] c.v.o.service.ClientServiceTests         : No active profile set, falling back to 1 default profile: "default"
+2024-08-09T00:47:12.160+05:30  INFO 8196 --- [online-banking] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-09T00:47:12.240+05:30  INFO 8196 --- [online-banking] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 68 ms. Found 2 JPA repository interfaces.
+2024-08-09T00:47:12.743+05:30  INFO 8196 --- [online-banking] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-08-09T00:47:13.242+05:30  INFO 8196 --- [online-banking] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a0ea492
+2024-08-09T00:47:13.244+05:30  INFO 8196 --- [online-banking] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-08-09T00:47:13.392+05:30  INFO 8196 --- [online-banking] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-09T00:47:13.471+05:30  INFO 8196 --- [online-banking] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-09T00:47:13.518+05:30  INFO 8196 --- [online-banking] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-08-09T00:47:13.962+05:30  INFO 8196 --- [online-banking] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-09T00:47:15.030+05:30  INFO 8196 --- [online-banking] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-09T00:47:15.112+05:30  INFO 8196 --- [online-banking] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-09T00:47:15.597+05:30  WARN 8196 --- [online-banking] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-08-09T00:47:16.450+05:30  INFO 8196 --- [online-banking] [main] c.v.o.service.ClientServiceTests         : Started ClientServiceTests in 5.757 seconds (process running for 7.204)
+2024-08-09T00:47:17.222+05:30  WARN 8196 --- [online-banking] [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Error: 1062, SQLState: 23000
+2024-08-09T00:47:17.222+05:30 ERROR 8196 --- [online-banking] [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : Duplicate entry 'testuser' for key 'clients.UKsrdlopksdpbh4qo20au1v8w7r'
+2024-08-09T00:47:17.273+05:30  INFO 8196 --- [online-banking] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-09T00:47:17.277+05:30  INFO 8196 --- [online-banking] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-08-09T00:47:17.285+05:30  INFO 8196 --- [online-banking] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-08-09T00:47:57.290+05:30  INFO 16316 --- [online-banking] [main] c.v.o.OnlineBankingApplicationTests      : Starting OnlineBankingApplicationTests using Java 22.0.2 with PID 16316 (started by vanshita mallick in C:\Users\vanshita mallick\Downloads\online-banking\online-banking)
+2024-08-09T00:47:57.293+05:30  INFO 16316 --- [online-banking] [main] c.v.o.OnlineBankingApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2024-08-09T00:47:58.288+05:30  INFO 16316 --- [online-banking] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-09T00:47:58.374+05:30  INFO 16316 --- [online-banking] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 76 ms. Found 2 JPA repository interfaces.
+2024-08-09T00:47:58.938+05:30  INFO 16316 --- [online-banking] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-08-09T00:47:59.323+05:30  INFO 16316 --- [online-banking] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6070775e
+2024-08-09T00:47:59.327+05:30  INFO 16316 --- [online-banking] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-08-09T00:47:59.484+05:30  INFO 16316 --- [online-banking] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-09T00:47:59.602+05:30  INFO 16316 --- [online-banking] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-09T00:47:59.650+05:30  INFO 16316 --- [online-banking] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-08-09T00:48:00.126+05:30  INFO 16316 --- [online-banking] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-09T00:48:01.316+05:30  INFO 16316 --- [online-banking] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-09T00:48:01.397+05:30  INFO 16316 --- [online-banking] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-09T00:48:01.892+05:30  WARN 16316 --- [online-banking] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-08-09T00:48:02.716+05:30  INFO 16316 --- [online-banking] [main] c.v.o.OnlineBankingApplicationTests      : Started OnlineBankingApplicationTests in 6.01 seconds (process running for 7.462)
+2024-08-09T00:48:03.362+05:30  INFO 16316 --- [online-banking] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-09T00:48:03.365+05:30  INFO 16316 --- [online-banking] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-08-09T00:48:03.377+05:30  INFO 16316 --- [online-banking] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
